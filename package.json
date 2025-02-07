@@ -2,7 +2,7 @@
   "name": "start-framework",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://KeroulsShokrallah.github.io",
+  "homepage": "https://KeroulsShokrallah.github.io/StartFramework",
   "type": "module",
   "scripts": {
     "dev": "vite",
